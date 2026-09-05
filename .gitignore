@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# Data (raw videos & large files)
+data/raw/
+data/processed/manifests/*.csv
+*.mp4
+*.avi
+*.mov
+!*.md
+
+# Models (checkpoints are large)
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.h5
+!models/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / artifacts
+logs/
+*.log
+mlruns/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
