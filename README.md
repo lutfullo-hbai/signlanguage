@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sign Language Translator (ASL → English)
 
 Soqov (kar) va oddiy odamlar o'rtasidagi **realtime tarjimon**. Zoom/Telegram kabi
@@ -42,3 +43,7 @@ signlanguage/
 MVP: **raqamlar + so'zlar** (harflar A-Z ham kelajakda qo'shiladi) — realtime o'ynash.
 
 Reja, milestone va tasklar uchun qarang: [`docs/`](docs/)
+=======
+# signlanguage
+signlanguage american for every deaf-mute real-time translater 
+>>>>>>> 3b282f7e17ebdc591597b4a5644023ba3b2e4d54
